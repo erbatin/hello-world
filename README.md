@@ -1,4 +1,4 @@
 # hello-world
 another repository
 
-Hi guys! I've just started to learn coding.
+Hi guys! I  just started to learning coding.
